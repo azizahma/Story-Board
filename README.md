@@ -1,2 +1,2 @@
-# Story-Board
+# Story-Boards
 Some stories
